@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Subscriptions of Алексей Курагин from Inoreader [https://www.inoreader.com]</title>
+  </head>
+  <body>
+    <outline text="Наука" title="Наука">
+      <outline text="Наука в сибири - Наука. Сибирь. Общество" title="Наука в сибири - Наука. Сибирь. Общество" type="rss" xmlUrl="http://www.sbras.info/rss" htmlUrl="http://www.sbras.info/rss"/>
+      <outline text="Пресс-релизы НГТУ" title="Пресс-релизы НГТУ" type="rss" xmlUrl="https://www.nstu.ru/rss/releases" htmlUrl="https://www.nstu.ru/"/>
+      <outline text="Новости НГТУ" title="Новости НГТУ" type="rss" xmlUrl="https://www.nstu.ru/rss/" htmlUrl="https://www.nstu.ru/"/>
+    </outline>
+    <outline text="СМИ" title="СМИ">
+      <outline text="НГС.НОВОСТИ" title="НГС.НОВОСТИ" type="rss" xmlUrl="http://news.ngs.ru/rss/" htmlUrl="http://news.ngs.ru/"/>
+      <outline text="Сиб.фм • Новости" title="Сиб.фм • Новости" type="rss" xmlUrl="http://feeds.feedburner.com/sibfm/news" htmlUrl="http://sib.fm/"/>
+      <outline text="Все новости Новосибирской области" title="Все новости Новосибирской области" type="rss" xmlUrl="https://vn.ru/news/rss" htmlUrl="https://vn.ru/"/>
+      <outline text="КУРЬЕР.СРЕДА.Бердск - новости Бердска" title="КУРЬЕР.СРЕДА.Бердск - новости Бердска" type="rss" xmlUrl="http://feeds.feedburner.com/kurer-sreda/feed" htmlUrl="http://www.kurer-sreda.ru/"/>
+      <outline text="Бердск-онлайн  Лента новостей" title="Бердск-онлайн  Лента новостей" type="rss" xmlUrl="https://berdsk-online.ru/rss.xml" htmlUrl="https://berdsk-online.ru/"/>
+      <outline text="Тайга.инфо" title="Тайга.инфо" type="rss" xmlUrl="http://tayga.info/rss" htmlUrl="http://tayga.info/rss.php"/>
+    </outline>
+    <outline text="Официальные источники" title="Официальные источники">
+      <outline text="Администрация города Бердска Новосибирской области" title="Администрация города Бердска Новосибирской области" type="rss" xmlUrl="http://berdsk.nso.ru/rss.xml" htmlUrl="http://berdsk.nso.ru/"/>
+      <outline text="главное управление МВД по НСО" title="главное управление МВД по НСО" type="rss" xmlUrl="https://54.xn--b1aew.xn--p1ai/news/rss/" htmlUrl="https://54.%D0%BC%D0%B2%D0%B4.%D1%80%D1%84/"/>
+      <outline text="Следственний комитет НСО" title="Следственний комитет НСО" type="rss" xmlUrl="http://nsk.sledcom.ru/news/rss_verify/?main=0" htmlUrl="http://nsk.sledcom.ru/news"/>
+      <outline text="Правительство Новосибирской области" title="Правительство Новосибирской области" type="rss" xmlUrl="http://www.nso.ru/rss.xml" htmlUrl="http://www.nso.ru/"/>
+      <outline text="Минкульт НСО" title="Минкульт НСО" type="rss" xmlUrl="http://mk.nso.ru/rss.xml" htmlUrl="http://mk.nso.ru/"/>
+      <outline text="Законодательное Собрание Новосибирской области" title="Законодательное Собрание Новосибирской области" type="rss" xmlUrl="http://www.zsnso.ru/rss/" htmlUrl="http://www.zsnso.ru/rss/"/>
+      <outline text="Оперативная информация" title="Оперативная информация" type="rss" xmlUrl="http://54.mchs.gov.ru/operationalpage/rss/" htmlUrl="http://54.mchs.gov.ru/operationalpage"/>
+      <outline text="Сибирское таможенное управление" title="Сибирское таможенное управление" type="rss" xmlUrl="http://stu.customs.ru/news/rss" htmlUrl="http://stu.customs.ru/news"/>
+      <outline text="Официальный сайт города Новосибирска" title="Официальный сайт города Новосибирска" type="rss" xmlUrl="https://feed43.com/3143712442452404.xml" htmlUrl="http://novo-sibirsk.ru/news/"/>
+      <outline text="Новости/RSS" title="Новости/RSS" type="rss" xmlUrl="http://novosibstat.gks.ru/wps/wcm/connect/rosstat_ts/novosibstat/ru/news/rss/rss" htmlUrl="http://gks.ru/"/>
+    </outline>
+  </body>
+</opml>
