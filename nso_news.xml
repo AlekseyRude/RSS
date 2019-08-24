@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Subscriptions of Алексей Курагин from Inoreader [https://www.inoreader.com]</title>
+  </head>
+  <body>
+    <outline text="СМИ" title="СМИ">
+      <outline text="НГС.НОВОСТИ" title="НГС.НОВОСТИ" type="rss" xmlUrl="http://news.ngs.ru/rss/" htmlUrl="http://news.ngs.ru/"/>
+      <outline text="Сиб.фм • Новости" title="Сиб.фм • Новости" type="rss" xmlUrl="http://feeds.feedburner.com/sibfm/news" htmlUrl="http://sib.fm/"/>
+      <outline text="Все новости Новосибирской области" title="Все новости Новосибирской области" type="rss" xmlUrl="https://vn.ru/news/rss" htmlUrl="https://vn.ru/"/>
+      <outline text="КУРЬЕР.СРЕДА.Бердск - новости Бердска" title="КУРЬЕР.СРЕДА.Бердск - новости Бердска" type="rss" xmlUrl="http://feeds.feedburner.com/kurer-sreda/feed" htmlUrl="http://www.kurer-sreda.ru/"/>
+      <outline text="Бердск-онлайн  Лента новостей" title="Бердск-онлайн  Лента новостей" type="rss" xmlUrl="https://berdsk-online.ru/rss.xml" htmlUrl="https://berdsk-online.ru/"/>
+      <outline text="Тайга.инфо" title="Тайга.инфо" type="rss" xmlUrl="http://tayga.info/rss" htmlUrl="http://tayga.info/rss.php"/>
+    </outline>
+  </body>
+</opml>

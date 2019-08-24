@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Subscriptions of Алексей Курагин from Inoreader [https://www.inoreader.com]</title>
+  </head>
+  <body>
+    <outline text="Официальные источники" title="Официальные источники">
+      <outline text="Администрация города Бердска Новосибирской области" title="Администрация города Бердска Новосибирской области" type="rss" xmlUrl="http://berdsk.nso.ru/rss.xml" htmlUrl="http://berdsk.nso.ru/"/>
+      <outline text="главное управление МВД по НСО" title="главное управление МВД по НСО" type="rss" xmlUrl="https://54.xn--b1aew.xn--p1ai/news/rss/" htmlUrl="https://54.%D0%BC%D0%B2%D0%B4.%D1%80%D1%84/"/>
+      <outline text="Следственний комитет НСО" title="Следственний комитет НСО" type="rss" xmlUrl="http://nsk.sledcom.ru/news/rss_verify/?main=0" htmlUrl="http://nsk.sledcom.ru/news"/>
+      <outline text="Правительство Новосибирской области" title="Правительство Новосибирской области" type="rss" xmlUrl="http://www.nso.ru/rss.xml" htmlUrl="http://www.nso.ru/"/>
+      <outline text="Минкульт НСО" title="Минкульт НСО" type="rss" xmlUrl="http://mk.nso.ru/rss.xml" htmlUrl="http://mk.nso.ru/"/>
+      <outline text="Законодательное Собрание Новосибирской области" title="Законодательное Собрание Новосибирской области" type="rss" xmlUrl="http://www.zsnso.ru/rss/" htmlUrl="http://www.zsnso.ru/rss/"/>
+      <outline text="Оперативная информация" title="Оперативная информация" type="rss" xmlUrl="http://54.mchs.gov.ru/operationalpage/rss/" htmlUrl="http://54.mchs.gov.ru/operationalpage"/>
+      <outline text="Сибирское таможенное управление" title="Сибирское таможенное управление" type="rss" xmlUrl="http://stu.customs.ru/news/rss" htmlUrl="http://stu.customs.ru/news"/>
+      <outline text="Официальный сайт города Новосибирска" title="Официальный сайт города Новосибирска" type="rss" xmlUrl="https://feed43.com/3143712442452404.xml" htmlUrl="http://novo-sibirsk.ru/news/"/>
+      <outline text="Новости/RSS" title="Новости/RSS" type="rss" xmlUrl="http://novosibstat.gks.ru/wps/wcm/connect/rosstat_ts/novosibstat/ru/news/rss/rss" htmlUrl="http://gks.ru/"/>
+    </outline>
+  </body>
+</opml>

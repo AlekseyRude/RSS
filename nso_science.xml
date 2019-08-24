@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Subscriptions of Алексей Курагин from Inoreader [https://www.inoreader.com]</title>
+  </head>
+  <body>
+    <outline text="Наука" title="Наука">
+      <outline text="Наука в сибири - Наука. Сибирь. Общество" title="Наука в сибири - Наука. Сибирь. Общество" type="rss" xmlUrl="http://www.sbras.info/rss" htmlUrl="http://www.sbras.info/rss"/>
+      <outline text="Пресс-релизы НГТУ" title="Пресс-релизы НГТУ" type="rss" xmlUrl="https://www.nstu.ru/rss/releases" htmlUrl="https://www.nstu.ru/"/>
+      <outline text="Новости НГТУ" title="Новости НГТУ" type="rss" xmlUrl="https://www.nstu.ru/rss/" htmlUrl="https://www.nstu.ru/"/>
+    </outline>
+  </body>
+</opml>
