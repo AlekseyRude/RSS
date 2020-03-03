@@ -11,7 +11,7 @@
       <outline text="Правительство Новосибирской области" title="Правительство Новосибирской области" type="rss" xmlUrl="http://www.nso.ru/rss.xml" htmlUrl="http://www.nso.ru/"/>
       <outline text="Минкульт НСО" title="Минкульт НСО" type="rss" xmlUrl="http://mk.nso.ru/rss.xml" htmlUrl="http://mk.nso.ru/"/>
       <outline text="Законодательное Собрание Новосибирской области" title="Законодательное Собрание Новосибирской области" type="rss" xmlUrl="http://www.zsnso.ru/rss/" htmlUrl="http://www.zsnso.ru/rss/"/>
-      <outline text="Оперативная информация" title="Оперативная информация" type="rss" xmlUrl="http://54.mchs.gov.ru/operationalpage/rss/" htmlUrl="http://54.mchs.gov.ru/operationalpage"/>
+      <outline text="Оперативная информация" title="Оперативная информация" type="rss" xmlUrl="https://54.mchs.gov.ru/deyatelnost/press-centr/novosti/rss" htmlUrl="https://54.mchs.gov.ru/deyatelnost/press-centr/novosti/"/>
       <outline text="Сибирское таможенное управление" title="Сибирское таможенное управление" type="rss" xmlUrl="http://stu.customs.ru/news/rss" htmlUrl="http://stu.customs.ru/news"/>
       <outline text="Официальный сайт города Новосибирска" title="Официальный сайт города Новосибирска" type="rss" xmlUrl="https://feed43.com/3143712442452404.xml" htmlUrl="http://novo-sibirsk.ru/news/"/>
       <outline text="Новосибирскстат-new" title="Новосибирскстат-new" type="rss" xmlUrl="https://novosibstat.gks.ru/news/rss" htmlUrl="https://novosibstat.gks.ru/"/>
