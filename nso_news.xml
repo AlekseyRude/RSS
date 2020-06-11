@@ -11,6 +11,7 @@
       <outline text="КУРЬЕР.СРЕДА.Бердск - новости Бердска" title="КУРЬЕР.СРЕДА.Бердск - новости Бердска" type="rss" xmlUrl="http://feeds.feedburner.com/kurer-sreda/feed" htmlUrl="http://www.kurer-sreda.ru/"/>
       <outline text="Бердск-онлайн  Лента новостей" title="Бердск-онлайн  Лента новостей" type="rss" xmlUrl="https://berdsk-online.ru/rss.xml" htmlUrl="https://berdsk-online.ru/"/>
       <outline text="Тайга.инфо" title="Тайга.инфо" type="rss" xmlUrl="http://tayga.info/rss" htmlUrl="http://tayga.info/rss.php"/>
+      <outline text="atas.info" title="atas.info" type="rss" xmlUrl="https://atas.info/rss" htmlUrl="https://atas.info/"/>
     </outline>
   </body>
 </opml>
